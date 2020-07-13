@@ -1,7 +1,7 @@
 module.exports = {
-  siteName: 'Gridsome starter bootstrap',
-  siteDescription: 'A starter project for Gridsome with Bootstrap and some other useful tools.',
-  siteUrl: 'https://gridsome-starter-bootstrap.loke.dev',
+  siteName: 'Florida Virtual Tutor',
+  siteDescription: 'A project to connect parents with tutors',
+  siteUrl: 'https://floridavirtualtutors.com',
   plugins: [
     {
       use: '@gridsome/source-filesystem',
@@ -18,7 +18,7 @@ module.exports = {
     {
       use: '@gridsome/plugin-google-analytics',
       options: {
-        id: 'UA-72659574-10'
+        id: ''
       }
     },
     {
