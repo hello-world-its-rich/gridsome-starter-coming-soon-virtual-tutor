@@ -2,16 +2,13 @@
   <Layout>
     <img class="greet-image" src="../../uploads/hello.svg" />
 
-    <h2 class="mb-4">Hello!</h2>
+    <h2 class="mb-4">Welcome to Florida Virtual Tutors</h2>
     <p>
-      This is a starter project for Gridsome that comes with many features out of the box. It utilizes Bootstrap that is well known
-      for powerful styling and layout. Ready to be deployed, automagically imports data to CMS and sets up your /admin page for easy
-      access to edit your content. 
+  Secure your virtual tutor for the 2020 - 2021 school year.
     </p>
 
     <p>
-      It is designed to use Netlify, Forestry and Github which all have very fair free tier to their services, so you wont need to pay
-      for monthly subscriptions and costly hosting fees.
+      Don't miss out. 
     </p>
 
     <h3 class="mt-5 mb-4">Features</h3>
