@@ -1,5 +1,5 @@
 module.exports = {
-  siteName: 'Florida Virtual Tutor',
+  siteName: 'My Florida Virtual Tutor',
   siteDescription: 'A project to connect parents with tutors',
   siteUrl: 'https://floridavirtualtutors.com',
   plugins: [

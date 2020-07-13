@@ -2,7 +2,7 @@
   <Layout>
     <img class="greet-image" src="../../uploads/hello.svg" />
 
-    <h2 class="mb-4">Welcome to Florida Virtual Tutors</h2>
+    <h2 class="mb-4">My Florida Virtual Tutor</h2>
     <p>
   Secure your virtual tutor for the 2020 - 2021 school year.
     </p>
