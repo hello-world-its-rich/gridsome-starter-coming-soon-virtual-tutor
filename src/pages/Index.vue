@@ -35,7 +35,7 @@
 <script>
 export default {
   metaInfo: {
-    title: 'Gridsome starter bootstrap'
+    title: 'Florida Virtual Tutors'
   }
 }
 </script>
