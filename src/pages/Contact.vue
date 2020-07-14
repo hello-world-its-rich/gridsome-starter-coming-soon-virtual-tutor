@@ -42,6 +42,23 @@
           />
         </b-form-group>
 
+        
+      <b-form-group
+          id="date-group-1"
+          label="Date:"
+          label-for="date"
+        >
+        <b-form-datepicker
+        id="example-datepicker"
+        v-model="value"
+        name="date"
+        class="mb-2"
+        />
+          </b-form-group>
+
+
+
+
         <b-form-group id="input-group-3" label="Message:" label-for="message">
           <b-form-textarea
             id="message"
@@ -68,6 +85,7 @@
         form: {
           name: '',
           email: '',
+          date: '',
           message: '',
         },
       }
