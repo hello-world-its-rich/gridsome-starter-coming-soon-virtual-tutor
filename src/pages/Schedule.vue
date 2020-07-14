@@ -1,6 +1,6 @@
 <template>
   <Layout>
-    <h1 class="mb-4">Contact</h1>
+    <h1 class="mb-4">By Reservation Only</h1>
     <div>
       <img class="contact-image mb-4" src="../../uploads/email.svg" />
       <b-form 
@@ -78,7 +78,7 @@
 <script>
   export default {
     metaInfo: {
-      title: 'Contact'
+      title: 'By Reservation Only'
     },
     data() {
       return {
